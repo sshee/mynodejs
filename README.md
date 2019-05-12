@@ -13,3 +13,5 @@
 ### Push to Git
 `git push -u origin master`
 
+### Check Status
+`git status`
