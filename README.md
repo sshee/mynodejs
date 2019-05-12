@@ -15,3 +15,6 @@
 
 ### Check Status
 `git status`
+
+### Pull a branch
+`git pull origin master`
